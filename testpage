@@ -2,7 +2,7 @@
   "routes": [
     {      "route": "/*",
       "statusCode": 301,
-      "redirect": "https://www.your-destination-url.com"
+      "redirect": "https://www.kayan.life"
     }
   ]
 }
