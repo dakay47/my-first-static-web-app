@@ -1,0 +1,9 @@
+{
+  "routes": [
+    {
+      "route": "routes",
+      "redirect": "kayan.life",
+      "statusCode": 301
+    }
+  ]
+}
